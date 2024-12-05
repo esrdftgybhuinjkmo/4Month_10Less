@@ -1,0 +1,109 @@
+*{
+    margin: 0; padding: 0;box-sizing: border-box;
+}
+
+.GiftBack{
+    width: 1200px; height: 900px;
+    background-color: #EDF0F5;
+}
+.Gift{
+    position: absolute;
+    margin-top: 2500px;
+}
+.joi{
+    position: absolute;
+    margin-top: 100px;
+    font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #415167;
+}
+.joil{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 50px;
+    font-family: Montserrat;
+font-size: 30px;
+font-weight: 900;
+line-height: 34px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #415167;
+}
+.joii{
+    margin-left: 700px;
+}
+
+.todji{
+    width: 794px; height: 460px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -600px;
+    margin-left:500px;
+    display: flex;
+}
+#toi{
+   margin-left: -260px;
+   margin-top:50px;
+}
+#popi1{
+    font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #C7A17A;
+margin-top: 100px;
+}
+#popi2{
+    font-family: Nunito;
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+#popi3{
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 300;
+line-height: 21.82px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.polot{
+    display:flex;
+    margin-top: 50px;
+}
+.polot2{
+    display:flex;
+}
+.polot3{
+    display:flex;
+    margin-left: 50px;
+}
+.mua{
+    position: absolute;
+    width: 100px;height: 30px; background-color: #C7A17A;
+    border-radius: 9px 9px 9px 9px;
+}
+#inoske{
+    position: absolute;
+    text-decoration: none;
+    color:#EDF0F5;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#tiet{
+    margin-left: 240px;
+}

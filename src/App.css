@@ -1,0 +1,37 @@
+#link a{
+   
+    text-decoration: none;
+        color: rgb(66, 105, 123);
+       
+      
+        display: flex;
+        
+        
+    
+
+}
+#link{
+    display: flex;
+    justify-content: space-around;
+    font-family: Nunito;
+font-size: 16px;
+font-weight: 700;
+line-height: 21.82px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+font-family: Montserrat;
+font-size: 54px;
+font-weight: 900;
+line-height: 70px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+
+
+}
+
+body{
+    background-color: #F9FBFF;
+}

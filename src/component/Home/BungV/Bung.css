@@ -1,0 +1,130 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.Bung{
+    position: absolute;
+   margin-top: 1500px;
+}
+#bacround{
+    width: 384px;
+    height: 894px;
+    background-color:#415167;
+    position: absolute;
+    display: flex;
+    margin-top: -100px;
+
+}
+.vi{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.tort{
+    color: #415167;
+    font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.tort2{
+    font-family: Montserrat;
+font-size: 30px;
+font-weight: 900;
+line-height: 34px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #415167;
+}
+
+.BungV10{
+    position: absolute;
+    display: flex;
+    margin-left: 100px;
+}
+.Bung1{
+    display:flex ;
+    width: 600px; height: 270px;
+    background-color:aliceblue;
+    margin-top: 100px;
+
+}
+
+.vio{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 70px   ;
+   
+
+}
+#su{
+    color: #C7A17A;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+#suu{
+    font-family: Nunito;
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 70px;
+margin-top: 10px;
+
+}
+#suuu{
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 21.82px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+color: #151D28;
+margin-left: 70px;
+margin-top: 50px;
+
+
+}
+#voi{
+  
+    text-decoration: none;
+    color: #F9FBFF;
+    margin-bottom: 20px;
+    
+}
+.voii{
+    width: 100px;
+    height: 30px;
+    border-radius: 9px 9px 9px 9px ;
+    background-color: #C7A17A;
+    margin-top: 10px;
+    
+}
+#chi{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.BungV20{
+    position: absolute;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+.Bung02{
+    margin-left: 100px;
+}
+#BungBtn{
+    width: 50px;
+    height: 50px;
+    background-color: #d5a97d;
+    border-radius: 50%;
+    position: absolute;
+    margin: 360px 1340px ;
+}

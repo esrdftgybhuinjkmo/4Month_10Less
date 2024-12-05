@@ -1,0 +1,88 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    margin-top: 200px;
+}
+.arabica{
+    
+    margin-top: 900px;
+    
+
+}
+.hat{
+    color: #151D28;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 21.82px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+width: 226px;
+height: 66px;
+top: 40.16px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.gos{
+    font-family: Nunito;
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 50px;
+
+}
+.alo{
+    margin-left:130px;
+}
+.alo2{
+    margin-left:130px;
+}
+.alo3{
+    margin-left:130px;
+}
+.alo4{
+    margin-left:130px;
+}
+.blender{
+    margin-left: 59px;
+}
+
+
+.lola{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 550px;
+}
+#polo{
+    color: #415167;
+    font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+#plo{
+    font-family: Montserrat;
+font-size: 30px;
+font-weight: 900;
+line-height: 34px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #415167;
+}

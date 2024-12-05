@@ -1,0 +1,62 @@
+*{
+   margin: 0;padding: 0;box-sizing: border-box; 
+}
+
+.BannerImg{
+
+position: absolute;
+
+}
+#Bannerid{
+    width: 1017px;
+    height: 770px;
+    background-color: #415167;
+    position: absolute;
+    margin-left: 500px;
+}
+.popi{
+    margin-right: 400px;
+}
+.revo{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 100px;
+}
+.yourCofee{
+    font-family: Montserrat;
+font-size: 54px;
+font-weight: 900;
+line-height: 70px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+position: absolute;
+margin-top: 500px;
+margin-left: 270px;
+
+}
+#personalized{
+    color:rgb(255, 255, 255);
+    width: 430px;
+    height: 60px;
+    background-color:#C7A17A;
+    
+}
+
+.pain{
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 300px;
+    font-family: Nunito;
+font-size: 30px;
+font-weight: 300;
+line-height: 50px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+#trang{
+    color: aliceblue;
+}
